@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*/bin/
+*/obj/
+*.user
+*.suo
+*.cache
+*.vsidx
+.git_old/
